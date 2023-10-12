@@ -1,0 +1,32 @@
+/* relative */
+/* #box1{
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+    position: relative;
+    top: 20px;
+    left:50px;
+} */
+/* absolute */
+/* #box1{
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+    position: absolute;
+    top: 0;
+    left: 0;
+} */
+#box1{
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+    position: relative;
+}
+#box2{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    top: 50px;
+    left:50px;
+}

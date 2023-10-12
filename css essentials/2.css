@@ -1,0 +1,16 @@
+h1{
+    color: orange;
+    border: 2px solid rgb(174, 174, 198);
+}
+h2{
+    color: rgb(237, 145, 83);
+}
+h3{
+    color: #0000ff;
+}
+body{
+    /* background-color: cyan; */
+    background-image: url(images/css.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
